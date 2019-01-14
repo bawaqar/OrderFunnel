@@ -9,7 +9,7 @@ namespace OrderFunnel
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine("thisis orderFunnel");
+            Console.WriteLine("this is pr1");
         }
     }
 }
